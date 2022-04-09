@@ -1,0 +1,23 @@
+
+[
+  {
+    "name": "Vidd Call ",
+    "desc": "A video call web application that does not require registeration before you can connect to your loved ones. Created with Laravel and WebRTC.",
+    "image": "vidd-call",
+    "category": "mern",
+    "links": {
+      "view": "https://vidd-call.herokuapp.com/",
+      "code": "https://github.com/mustaphatg/vid-call"
+    }
+  },
+  {
+    "name": "Nairaland v2",
+    "desc": "A Reactjs web app that scrapes and display the content of a forum (https://nairaland.com) in a nice and modern ui.",
+    "image": "nairaland",
+    "category": "mern",
+    "links": {
+      "view": "https://nairaland-v2.netlify.com/",
+      "code": "https://github.com/mustaphatg/nairaland"
+    }
+  }
+]
